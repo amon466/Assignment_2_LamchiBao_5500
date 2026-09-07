@@ -1,4 +1,4 @@
-package lec07_arraylist;
+package lec06_01_arraylist;
 
 import java.util.Arrays;
 
