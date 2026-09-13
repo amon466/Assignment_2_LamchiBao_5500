@@ -3,27 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/example1/Car.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/example1/PROCESSDER.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/numberofparameter/OverloadingExample.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/numberofparameter/Processor.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/muti/OverloadingExample2.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/muti/Processor.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/printInfo/OverloadingExample3.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/printInfo/Processor.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/display/PromotionExample.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/add/PromotionExample.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/numberofparameter/promotionexample.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Student/student.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Student/Main.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Rectangle/Rectangle.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Rectangle/Main.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Book/Book.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/Book/Main.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/PointCoordinate/PointCoordinate.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/PointCoordinate/Main.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/CircleShape/CircleShape.java</file>
-            <file>file:/D:/fc1/LamChiBao_5500/src/lec08_objeectandclass/CircleShape/Main.java</file>
+            <file>file:/D:/fc1/LamChiBao_5500/src/lec11_Encapsulation/AccessModifier/Old/A.java</file>
+            <file>file:/D:/fc1/LamChiBao_5500/src/lec11_Encapsulation/AccessModifier/New/A1.java</file>
+            <file>file:/D:/fc1/LamChiBao_5500/src/lec11_Encapsulation/AccessModifier/New/B.java</file>
+            <file>file:/D:/fc1/LamChiBao_5500/src/lec11_Encapsulation/Getset/Student.java</file>
+            <file>file:/D:/fc1/LamChiBao_5500/src/lec11_Encapsulation/Getset/processor.java</file>
         </group>
     </open-files>
 </project-private>
